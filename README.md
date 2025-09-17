@@ -2,10 +2,10 @@
 
 **GaatiTrack** is a PHP-based web application for parcel tracking and logistics management. Designed with simplicity and scalability in mind, it enables admins to manage parcels, users, branches, and track delivery statuses in real-time.
 
-# 🚀 Built by [Abhisekh Satapathy](https://github.com/AbhisekhSatapathy)
+## 🚀 Built by [Abhisekh Satapathy](https://github.com/AbhisekhSatapathy)
 
 ---
-# 🤝 Contributing
+## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 Fork the repository
 Create your feature branch: git checkout -b feature/your-feature
@@ -13,11 +13,11 @@ Commit your changes: git commit -m "Add new feature"
 Push to the branch: git push origin feature/your-feature
 Open a pull request
 
-# 📜 License
+## 📜 License
 This project is open-source and available under the MIT License
 .
 
-# 👤 Author
+## 👤 Author
 
 ## Abhisekh Satapathy
 🔗 GitHub: @AbhisekhSatapathy

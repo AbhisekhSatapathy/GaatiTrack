@@ -1,6 +1,8 @@
 # GaatiTrack
 
-A parcel / logistics tracking and management system.
+**GaatiTrack** is a PHP-based web application for parcel tracking and logistics management. Designed with simplicity and scalability in mind, it enables admins to manage parcels, users, branches, and track delivery statuses in real-time.
+
+# 🚀 Built by [Abhisekh Satapathy](https://github.com/AbhisekhSatapathy)
 
 ---
 # 🤝 Contributing
